@@ -1,0 +1,10 @@
+Etant donné que l'extension utilisé sur VSCODE génère une baisse de performance sur l'audit réalisé avec LightHouse, j'ai utilisé GitHub Pages pour m'assurer que les performances sont au rendez-vous lorsque l'extension VScode n'est pas utilisé
+
+De ce fait, je vous mets à disposition le code source ainsi que le lien GitHub au cas où vous en auriez le besoin : https://github.com/Nozgood/SAFI_Nowfeel_4_010322
+
+
+Il n'y a aucune différence avec le code source, à l'exception prête que les fichiers du projet sont sortis du dossier "code source" pour pouvoir utiliser GitHub pages 
+
+De plus j'ai fait le choix de fournir plusieurs rapports : avec et sans lighthouse, témoignant de la démarche que j'ai entrepris 
+
+Je reste à votre disposition en cas de d'interrogation ou de remarque 
