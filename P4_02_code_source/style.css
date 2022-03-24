@@ -37,9 +37,7 @@ body {
     color: #fff;
     margin-bottom: 20px;
 }
-.footer__a {
-    color: #fff;
-}
+
 .presentation {
     text-align: center;
     font-size: 22px;
@@ -524,4 +522,9 @@ a[data-lightbox]:hover::before {
 
 .form_1 {
     padding: 10px;
+}
+
+.btn-atomic-tangerine:hover {
+    background: #c27956;
+    color: #FFF;
 }
